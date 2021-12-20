@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-holder {
+    min-width: 800px;
+}
+
+.form-holder p {
+    padding: .1rem
+}
